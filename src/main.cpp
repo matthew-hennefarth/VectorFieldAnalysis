@@ -1,10 +1,9 @@
 #include <iostream>
 
-
-#include "BaseVector.h"
-#include "Vector3D.h"
+#include "Grid.h"
 
 int main() {
 
+    Grid x ("efield.out");
 
 }
