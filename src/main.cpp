@@ -1,9 +1,8 @@
-#include <iostream>
 
-#include "Grid.h"
+#include "Calculation.h"
 
 int main() {
 
-    Grid x ("efield.out");
+    Calculation x;
 
 }

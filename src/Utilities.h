@@ -8,6 +8,8 @@
 #include <vector>
 #include <string>
 
+#define PI 3.14159265
+
 std::vector<std::string> split(const std::string &val, const char &delim, std::vector<std::string> *out=nullptr){
     if(out == nullptr){
         std::vector<std::string> result;
