@@ -10,7 +10,7 @@
 
 Calculation::Calculation() {
 
-    Grid x("efield.out");
+    Grid x("CHO_efield.out");
     std::ofstream dataFile("2D_Histo.dat");
 
 
